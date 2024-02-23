@@ -34,7 +34,7 @@ cd "/home/jed/Documents/Admin"
 \counterwithin{table}{section}
 
 \bibliographystyle{unsrt}
-\renewcommand{\bibsection}{\section*{Whatever You Prefer}}
+\renewcommand{\bibsection}{\section*{Publications}}
 
 \begin{document}
 
@@ -45,7 +45,6 @@ cd "/home/jed/Documents/Admin"
 JEDIDIAH INDIGO MORTON}
 \rule{16cm}{2mm} \\
 \Large
-Protocol \\
 \thedate \\
        \vfill
     \end{center}
@@ -53,9 +52,10 @@ Protocol \\
 
 \noindent
 Research Fellow \\
-\color{blue}
-Email: \href{mailto:Jedidiah.Morton@Monash.edu}{Jedidiah.Morton@monash.edu} \\
-Phone: 0403 487 378 \\
+Email: \color{blue}
+ \href{mailto:Jedidiah.Morton@Monash.edu}{Jedidiah.Morton@monash.edu} \\
+\color{black}
+Phone: \color{blue} 0403 487 378 \\
 \color{black}
 Monash University, Melbourne, Australia. \\
 381 Royal Parade, Parkville, Victoria, Australia, 3052. \\
