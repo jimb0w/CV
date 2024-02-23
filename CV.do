@@ -78,21 +78,14 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 \section*{Other positions}
 
-2023- \hspace*{0.5cm} Victorian Government, Department of Health, 
+\begin{tabular}{lp{14cm}}
+2023- & International Diabetes Federation, Diabetes Atlas Economic Impact of Diabetes Special Interest Group. Member. \\
+2023- & Victorian Government, Department of Health, 
 Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \\
-2022-\color{white}2023 \color{black} \hspace*{0.5cm} Monash University. Research fellow. \\
-2021-2022 \hspace*{0.5cm} Monash University. Teaching associate. \\
-2019-2022 \hspace*{0.5cm} Monash University and Baker Heart and Diabetes Institute. PhD candidate. \\
-2018-2019 \hspace*{0.5cm} University of Melbourne. Research assistant. \\
+2022- & GLOBODIAB study. Principal analyst.  \\
+2022 & Baker Heart and Diabetes Institute. Honorary appointment.  \\
+\end{tabular}
 
-
-2022-	Victorian Government, Department of Health, Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. 
-
-2022	Baker Heart and Diabetes Institute. Honorary appointment.  
-
-2022-	GLOBODIAB study. Principal analyst. 
-
-2023-	International Diabetes Federation, Diabetes Atlas Economic Impact of Diabetes Special Interest Group. Member. 
 
 \color{white}
 \cite{MortonDLOGIA2023}
