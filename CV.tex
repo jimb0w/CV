@@ -1,12 +1,4 @@
 
-texdoc init CV, replace logdir(CV_log) gropts(optargs(width=0.8\textwidth))
-set linesize 100
-
-cd "/home/jed/Documents/Admin"
-*copy "http://www.stata-journal.com/production/sjlatex/stata.sty" stata.sty
-
-/***
-
 \documentclass[11pt]{article}
 \usepackage{fullpage}
 \usepackage{siunitx}
@@ -69,29 +61,4 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \clearpage
 \bibliography{/home/jed/Documents/Library.bib}
 \end{document}
-
-***/
-
-
-texdoc close
-
-
-cd "/home/jed/Documents/Admin"
-
-! pdflatex CV
-! pdflatex CV
-! bibtex CV
-! pdflatex CV
-! bibtex CV
-! pdflatex CV
-
-! git init .
-! git add CV.do CV.tex CV.pdf
-! git commit -m "0"
-! git remote remove origin
-! git remote add origin https://github.com/jimb0w/CV.git
-! git remote set-url origin git@github.com:jimb0w/CV.git
-! git push --set-upstream origin master
-
-
 
