@@ -69,7 +69,7 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 \section{Professional Appointments}
 
-2023-		Baker Heart and Diabetes Institute. Postdoctoral researcher.  \\
+2023-\color{white}0000\color{black} Baker Heart and Diabetes Institute. Postdoctoral researcher.  \\
 2022-		Monash University. Research fellow. \\
 2021-2022	Monash University. Teaching associate. \\
 2019-2022	Monash University and Baker Heart and Diabetes Institute. PhD candidate. \\
