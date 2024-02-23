@@ -34,6 +34,7 @@ cd "/home/jed/Documents/Admin"
 \counterwithin{table}{section}
 
 \bibliographystyle{unsrt}
+\renewcommand{\bibsection}{\section*{Whatever You Prefer}}
 
 \begin{document}
 
@@ -64,7 +65,9 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \\
 \end{titlepage}
 
+\color{white}
 \cite{MortonDLOGIA2023}
+\color{black}
 
 \clearpage
 \bibliography{/home/jed/Documents/Library.bib}
