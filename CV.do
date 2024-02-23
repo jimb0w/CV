@@ -66,9 +66,6 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 75 Commercial Road, Melbourne, Victoria, Australia, 3004. \\
 \\
 \end{titlepage}
-\pagebreak
-\tableofcontents
-\pagebreak
 \section*{Professional Appointments}
 
 2023-\color{white}2023 \color{black} \hspace*{0.5cm} Baker Heart and Diabetes Institute. Postdoctoral researcher.  \\
