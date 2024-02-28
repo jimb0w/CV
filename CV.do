@@ -34,7 +34,7 @@ cd "/home/jed/Documents/Admin"
 \counterwithin{table}{section}
 
 \bibliographystyle{unsrt}
-\renewcommand{\bibsection}{\section*{Publications}}
+\renewcommand{\bibsection}{\section*{}}
 
 \begin{document}
 
@@ -68,6 +68,48 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \end{titlepage}
 
 \tableofcontents
+
+
+\color{white}
+\cite{tanDRCP2024,
+LivoriIJC2024,
+LivoriEJPC2023,
+MacCO2024,
+FelekeDRCP2023,
+LordPPT2023,
+AbebeEHJ2023,
+MortonPECA2023,
+MortonAJKD2023,
+DoodyAGG2023,
+MacCirc2023,
+DinaPE2023,
+LloydDLOGIA2023,
+MortonVIH2023,
+TomicDRCP2023,
+LazzDLOGIA2023,
+QuigleyDRCP2022,
+MacVIH2022,
+MortonDLOGIA2023,
+TomicDRCP2022,
+TomicLDE2022,
+MortonEJPC2023,
+AdemiPE2022,
+MortonDRCP2022,
+MortonDM2022b,
+MortonJECH2022,
+OyunTAEM2022,
+RuizDLOGIA2022,
+MortonDC2022,
+MortonJONS2022,
+HastingsPE2022,
+MortonDM2022a,
+HardingNDT2022,
+OyunSR2021,
+MortonDC2021,
+MortonDLOGIA2021,
+MortonDC2020}
+\color{black}
+
 \pagebreak
 
 
@@ -123,48 +165,10 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \end{tabular}
 
 
-\color{white}
-\cite{tanDRCP2024,
-LivoriIJC2024,
-LivoriEJPC2023,
-MacCO2024,
-FelekeDRCP2023,
-LordPPT2023,
-AbebeEHJ2023,
-MortonPECA2023,
-MortonAJKD2023,
-DoodyAGG2023,
-MacCirc2023,
-DinaPE2023,
-LloydDLOGIA2023,
-MortonVIH2023,
-TomicDRCP2023,
-LazzDLOGIA2023,
-QuigleyDRCP2022,
-MacVIH2022,
-MortonDLOGIA2023,
-TomicDRCP2022,
-TomicLDE2022,
-MortonEJPC2023,
-AdemiPE2022,
-MortonDRCP2022,
-MortonDM2022b,
-MortonJECH2022,
-OyunTAEM2022,
-RuizDLOGIA2022,
-MortonDC2022,
-MortonJONS2022,
-HastingsPE2022,
-MortonDM2022a,
-HardingNDT2022,
-OyunSR2021,
-MortonDC2021,
-MortonDLOGIA2021,
-MortonDC2020}
-\color{black}
 
 \clearpage
 \addcontentsline{toc}{section}{Publications}
+\section*{Publications}
 \bibliography{/home/jed/Documents/Library.bib}
 \end{document}
 
