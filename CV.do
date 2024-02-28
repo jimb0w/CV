@@ -170,8 +170,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 
 \clearpage
-\bibliography{/home/jed/Documents/Library.bib}
 \addcontentsline{toc}{section}{Publications}
+\bibliography{/home/jed/Documents/Library.bib}
 \clearpage
 
 \addcontentsline{toc}{section}{Textbook chapters}
