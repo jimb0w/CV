@@ -68,6 +68,7 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \end{titlepage}
 
 \tableofcontents
+\pagebreak
 
 
 \addcontentsline{toc}{section}{Professional Appointments}
