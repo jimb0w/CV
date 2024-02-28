@@ -71,7 +71,7 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \pagebreak
 
 
-\addcontentsline{toc}{section}{Professional Appointments}
+\addcontentsline{toc}{section}{Professional appointments}
 \section*{Professional Appointments}
 
 \begin{tabular}{p{2cm}p{14cm}}
@@ -99,7 +99,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2022 & Doctor of Philosophy, Monash University. \\
 \end{tabular}
 
-\addcontentsline{toc}{section}{Scholarships and Awards}
+\addcontentsline{toc}{section}{Scholarships and awards}
 \section*{Scholarships and Awards}
 \begin{tabular}{p{2cm}p{14cm}}
 2022 & Finalist – Victorian Premier's Awards for Health and Medical Research, Department of Health, Victorian Government. \\
@@ -116,12 +116,22 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2016-2017 & Dean's Honours List, University of Melbourne. \\
 \end{tabular}
 
+\addcontentsline{toc}{section}{Competitive grant funding}
+\section*{Competitive grant funding}
+\begin{tabular}{p{2cm}p{14cm}}
+2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. \$120,000. \\
+\end{tabular}
+
 
 \color{white}
-\cite{MortonDLOGIA2023}
+\cite{
+MortonDRCP2022,
+MortonDLOGIA2023,
+}
 \color{black}
 
 \clearpage
+\addcontentsline{toc}{section}{Publications}
 \bibliography{/home/jed/Documents/Library.bib}
 \end{document}
 
