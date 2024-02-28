@@ -124,8 +124,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 
 \color{white}
-\cite{
-MortonDLOGIA2023,
+\cite{MortonDLOGIA2023,
+MortonDC2022,
 MortonDRCP2022}
 \color{black}
 
