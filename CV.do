@@ -127,8 +127,8 @@ MortonDC2020}
 2018-2019 & Monash University. University of Melbourne. Research assistant. \\
 \end{tabular}
 
-\addcontentsline{toc}{section}{Other positions}
 \section*{Other positions}
+\addcontentsline{toc}{section}{Other positions}
 \begin{tabular}{p{2cm}p{14cm}}
 2023- & International Diabetes Federation, Diabetes Atlas Economic Impact of Diabetes Special Interest Group. Member. \\
 2023- & Victorian Government, Department of Health, 
@@ -137,15 +137,15 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2022 & Baker Heart and Diabetes Institute. Honorary appointment.  \\
 \end{tabular}
 
-\addcontentsline{toc}{section}{Qualifications}
 \section*{Qualifications}
+\addcontentsline{toc}{section}{Qualifications}
 \begin{tabular}{p{2cm}p{14cm}}
 2018 & Bachelor of Science (Honours), University of Melbourne. \\
 2022 & Doctor of Philosophy, Monash University. \\
 \end{tabular}
 
-\addcontentsline{toc}{section}{Scholarships and awards}
 \section*{Scholarships and Awards}
+\addcontentsline{toc}{section}{Scholarships and awards}
 \begin{tabular}{p{2cm}p{14cm}}
 2022 & Finalist – Victorian Premier's Awards for Health and Medical Research, Department of Health, Victorian Government. \\
 2022 & Damien Jolly Award for Higher Degree by Research Thesis Excellence, Monash University. \\
@@ -161,8 +161,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2016-2017 & Dean's Honours List, University of Melbourne. \\
 \end{tabular}
 
-\addcontentsline{toc}{section}{Competitive grant funding}
 \section*{Competitive grant funding}
+\addcontentsline{toc}{section}{Competitive grant funding}
 \begin{tabular}{p{2cm}p{14cm}}
 2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. \$120,000. \\
 \end{tabular}
@@ -170,8 +170,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 
 \clearpage
-\addcontentsline{toc}{section}{Publications}
 \bibliography{/home/jed/Documents/Library.bib}
+\addcontentsline{toc}{section}{Publications}
 \clearpage
 
 \addcontentsline{toc}{section}{Textbook chapters}
