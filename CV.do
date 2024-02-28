@@ -260,7 +260,7 @@ I have reviewed manuscripts for the following journals:
 \item The Lancet Regional Health – Western Pacific 
 \item Cardiovascular Diabetology 
 \item Diabetes Research and Clinical Practice 
-\item Diabetes & Metabolism 
+\item Diabetes \& Metabolism 
 \item Diabetic Medicine 
 \item Diabetes, Obesity and Metabolism 
 \item Value in Health 
@@ -275,7 +275,7 @@ I have reviewed manuscripts for the following journals:
 \item BMC Nephrology 
 \item BMC Public Health 
 \item BMC Health Services Research 
-\item Current Medical Research & Opinion 
+\item Current Medical Research  \& Opinion 
 \item Health Economics Review 
 \item Journal of Pharmacy Practice and Research 
 \end{itemize}
