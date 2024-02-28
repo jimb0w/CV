@@ -34,7 +34,7 @@ cd "/home/jed/Documents/Admin"
 \counterwithin{table}{section}
 
 \bibliographystyle{unsrt}
-\renewcommand{\bibsection}{\section*{Publications}}
+\renewcommand{\bibsection}{}
 
 \begin{document}
 
@@ -170,6 +170,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 
 \clearpage
+\section*{Publications}
 \addcontentsline{toc}{section}{Publications}
 \bibliography{/home/jed/Documents/Library.bib}
 \clearpage
