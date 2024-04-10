@@ -189,6 +189,7 @@ Oxford University Press.
 \section*{Invited lectures}
 \addcontentsline{toc}{section}{Invited lectures}
 \begin{enumerate}
+\item Steno Diabetes Center, Copenhagen, Denmark. "Creative use of large datasets to improve diabetes outcomes". April 2024.
 \item The Society of Hospital Pharmacists of Australia (SHPA) – Medicines Management 2023. "RCT or bust". November 2023.
 \item Deakin University, Melbourne, Australia. "Inequality in type 2 diabetes in Australia". June 2023. 
 \item Buloke Loddon Gannawarra Diabetes Online Forum, Victoria, Australia. "Up-to-date diabetes treatment? Depends on where you live." January 2022.  
@@ -197,7 +198,12 @@ Oxford University Press.
 \section*{Conference presentations}
 \addcontentsline{toc}{section}{Conference presentations}
 \begin{enumerate}
-\item Morton, JI, Marquina C, Lloyd M, Watts GF, Zoungas S, Liew D, Ademi Z. 
+\item Morton JI, Magliano DJ, Chen L, Sacre JW, Carstensen B, Gregg EW, Pavkov ME, Arffman M, 
+Chu LM, Eeg-Olofsson K, Fleetwood K, Fosse-Edorh S, Guion M, Gurevicius R, Ha KH, Kaul P, 
+Keskim{\"a}ki I, Kim DJ, Laurberg T, St{\o}vring H, Wild SH, Shaw JE. Cause-specific
+Mortality Trends in People With and Without Diabetes: A Multi-Country Analysis. 
+European Diabetes Epidemiology Group. April 2024.
+\item Morton JI, Marquina C, Lloyd M, Watts GF, Zoungas S, Liew D, Ademi Z. 
 Lipid Lowering Strategies for Primary Prevention of Coronary Heart Disease in Australia: 
 A Cost-effectiveness Analysis Using Mendelian Randomisation. 
 Cardiac Society of Australia and New Zealand, August 2023.
