@@ -39,7 +39,7 @@ cd "/home/jed/Documents/Admin"
 \bibliographystyle{unsrt}
 \renewcommand{\bibsection}{}
 \makeatletter
-\renewcommand\@biblabel[1]{#1.}
+\renewcommand\@biblabel[1]{	#1.}
 \makeatother
 
 \begin{document}
