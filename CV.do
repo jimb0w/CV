@@ -71,7 +71,8 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{DoodyAGG2024,
+\cite{AbebeNeu2024,
+DoodyAGG2024,
 MacPE2024,
 MortonDRCP2024,
 TanCPT2024,
@@ -113,7 +114,6 @@ MortonDC2021,
 MortonDLOGIA2021,
 MortonDC2020}
 \color{black}
-
 \pagebreak
 
 
@@ -171,7 +171,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \clearpage
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
-\bibliography{/home/jed/Documents/Library.bib}
+\bibliography{https://github.com/jimb0w/Library/blob/main/Library.bib}
 \clearpage
 
 \section*{Textbook chapters}
