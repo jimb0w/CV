@@ -3,6 +3,9 @@ texdoc init CV, replace logdir(CV_log) gropts(optargs(width=0.8\textwidth))
 set linesize 100
 
 cd "/home/jed/Documents/Admin"
+
+! git clone https://github.com/jimb0w/Library.git
+
 *copy "http://www.stata-journal.com/production/sjlatex/stata.sty" stata.sty
 
 /***
@@ -171,7 +174,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \clearpage
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
-\bibliography{https://github.com/jimb0w/Library/blob/main/Library.bib}
+\bibliography{Library/Library.bib}
 \clearpage
 
 \section*{Textbook chapters}
@@ -305,6 +308,4 @@ cd "/home/jed/Documents/Admin"
 ! git remote add origin https://github.com/jimb0w/CV.git
 ! git remote set-url origin git@github.com:jimb0w/CV.git
 ! git push --set-upstream origin master
-
-
 
