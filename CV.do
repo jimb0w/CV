@@ -78,6 +78,7 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 \color{white}
 \cite{MortonVIH2024,
+MehtaDRCP2024,
 LivoriHLC2024,
 FelekeDC2024,
 ZiserBJCP2024,
