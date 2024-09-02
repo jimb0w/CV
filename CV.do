@@ -1,10 +1,17 @@
 
-texdoc init CV, replace logdir(CV_log) gropts(optargs(width=0.8\textwidth))
+texdoc init CV, replace gropts(optargs(width=0.8\textwidth))
 set linesize 100
 
 ! rm -r "/home/jed/Documents/Admin/Library"
-cd "/home/jed/Documents/Admin"
+cd /home/jimb0w/Documents/Admin/CV
 ! git clone https://github.com/jimb0w/Library.git
+
+texdoc stlog, nolog nodo
+cd /home/jimb0w/Documents/Admin/CV
+texdoc do CV.do
+
+stop
+texdoc stlog close
 
 *copy "http://www.stata-journal.com/production/sjlatex/stata.sty" stata.sty
 
@@ -317,7 +324,7 @@ I have reviewed manuscripts for the following journals:
 texdoc close
 
 
-cd "/home/jed/Documents/Admin"
+cd "/home/jimb0w/Documents/Admin/CV"
 
 ! pdflatex CV
 ! pdflatex CV
@@ -325,6 +332,15 @@ cd "/home/jed/Documents/Admin"
 ! pdflatex CV
 ! bibtex CV
 ! pdflatex CV
+
+
+erase CV.aux
+erase CV.log
+erase CV.out
+erase CV.toc
+erase CV.bbl
+erase CV.blg
+
 
 ! git init .
 ! git add CV.do CV.tex CV.pdf
