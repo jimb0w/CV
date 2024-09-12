@@ -2,15 +2,13 @@
 texdoc init CV, replace gropts(optargs(width=0.8\textwidth))
 set linesize 100
 
-! rm -r "/home/jed/Documents/Admin/Library"
+! rm -r "/home/jimb0w/Documents/Admin/CV/Library"
 cd /home/jimb0w/Documents/Admin/CV
 ! git clone https://github.com/jimb0w/Library.git
 
 texdoc stlog, nolog nodo
 cd /home/jimb0w/Documents/Admin/CV
 texdoc do CV.do
-
-stop
 texdoc stlog close
 
 *copy "http://www.stata-journal.com/production/sjlatex/stata.sty" stata.sty
