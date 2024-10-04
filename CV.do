@@ -82,7 +82,8 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{DinaEJPC2024,
+\cite{TanAJE2024,
+DinaEJPC2024,
 MortonVIH2024,
 MehtaDRCP2024,
 LivoriHLC2024,
