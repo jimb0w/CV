@@ -165,6 +165,14 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2018 & Bachelor of Science (Honours), University of Melbourne. \\
 \end{tabular}
 
+
+\section*{Competitive grant funding}
+\addcontentsline{toc}{section}{Competitive grant funding}
+\begin{tabular}{p{2cm}p{14cm}}
+2024 & Postdoctoral Fellowship, The Heart Foundation. \$151,200. \\
+2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. \$120,000. \\
+\end{tabular}
+
 \section*{Scholarships and Awards}
 \addcontentsline{toc}{section}{Scholarships and awards}
 \begin{tabular}{p{2cm}p{14cm}}
@@ -182,11 +190,6 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2016-2017 & Dean's Honours List, University of Melbourne. \\
 \end{tabular}
 
-\section*{Competitive grant funding}
-\addcontentsline{toc}{section}{Competitive grant funding}
-\begin{tabular}{p{2cm}p{14cm}}
-2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. \$120,000. \\
-\end{tabular}
 
 \clearpage
 \section*{Publications}
