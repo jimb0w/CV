@@ -172,7 +172,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \addcontentsline{toc}{section}{Competitive grant funding}
 \begin{tabular}{p{2cm}p{11.5cm}p{1.5cm}p{1cm}}
 2024 & Postdoctoral Fellowship, The Heart Foundation. & \$151,200. & CIA. \\
-2024 & Charles Coghlan OAM Emerging Researcher Award, Diabetes Australia. & \$148,750. & CIA. \\
+2024 & Charles Coghlan OAM Emerging Researcher Award, Diabetes Australia. & \$150,000. & CIA. \\
 2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. & \$120,000. & CIB. \\
 \end{tabular}
 
@@ -279,7 +279,7 @@ type 2 diabetes developing kidney failure. Diabetic Living (readership: 245,000;
 \addcontentsline{toc}{section}{Teaching}
 \begin{enumerate}
 \item Victorian Heart Hospital. Introductory Biostatistics. Course designer and teacher. 2024.
-\item The Society of Hospital Pharmacists of Australia (SHPA) – Medicines Management 2023. "Doing valuable research". Course designer and teacher. 2023.
+\item The Society of Hospital Pharmacists of Australia (SHPA) – Medicines Management 2023. ``Doing valuable research''. Course designer and teacher. 2023.
 \item Baker Heart and Diabetes Institute. Multistate models: Occurrence rates, cumulative risks, 
 competing risks, state probabilities with multiple states and time scales using R and Epi::Lexis, by Bendix Carstensen. Teaching assistant. 2023.
 \item Monash University. MPS5304: Regulatory science and monitoring medicine use (Master of Clinical Pharmacy). Guest lecturer. 2022.
