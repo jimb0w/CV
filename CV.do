@@ -71,18 +71,15 @@ Phone: \color{blue} 0403 487 378 \\
 Research Fellow \\
 Monash University, Melbourne, Australia. \\
 381 Royal Parade, Parkville, Victoria, Australia, 3052. \\
- \\
-Postdoctoral Researcher \\
-Baker Heart and Diabetes Institute, Melbourne, Australia. \\
-75 Commercial Road, Melbourne, Victoria, Australia, 3004. \\
-\\
 \end{titlepage}
 
 \tableofcontents
 
 
 \color{white}
-\cite{DMLDE2024,
+\cite{MelJACI2024,
+MortonPECA2024,
+DMLDE2024,
 DMMJA2024,
 TanAJE2024,
 DinaEJPC2024,
@@ -143,8 +140,8 @@ MortonDC2020}
 \addcontentsline{toc}{section}{Professional appointments}
 
 \begin{tabular}{p{2cm}p{14cm}}
-2023- & Baker Heart and Diabetes Institute. Postdoctoral researcher. \\
 2022- & Monash University. Research fellow. \\
+2023-2024 & Baker Heart and Diabetes Institute. Postdoctoral researcher. \\
 2021-2022 & Monash University. Teaching associate. \\
 2019-2022 & Monash University and Baker Heart and Diabetes Institute. PhD candidate. \\
 2018-2019 & Monash University. University of Melbourne. Research assistant. \\
@@ -153,10 +150,11 @@ MortonDC2020}
 \section*{Other positions}
 \addcontentsline{toc}{section}{Other positions}
 \begin{tabular}{p{2cm}p{14cm}}
+2024- & Baker Heart and Diabetes Institute. Honorary appointment.  \\
 2023- & International Diabetes Federation, Diabetes Atlas Economic Impact of Diabetes Special Interest Group. Member. \\
-2023- & Victorian Government, Department of Health, 
-Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \\
 2022- & GLOBODIAB study. Principal analyst.  \\
+2023-2024 & Victorian Government, Department of Health, 
+Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \\
 2022 & Baker Heart and Diabetes Institute. Honorary appointment.  \\
 \end{tabular}
 
