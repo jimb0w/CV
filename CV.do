@@ -169,9 +169,9 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \section*{Competitive grant funding}
 \addcontentsline{toc}{section}{Competitive grant funding}
 \begin{tabular}{p{2cm}p{11.5cm}p{1.5cm}p{1cm}}
+2025 & Health Services Research Grant Program, HCF Research Foundation. & \$274,605. & CIA \\
 2024 & Postdoctoral Fellowship, The Heart Foundation. & \$151,200. & CIA. \\
 2024 & Charles Coghlan OAM Emerging Researcher Award, Diabetes Australia. & \$150,000. & CIA. \\
-2024 & 2024 Health Services Research Grant Program, HCF Research Foundation. & \$274,605. & CIA \\
 2023 & 45 and Up Cardiovascular Research Grant, The Heart Foundation. & \$120,000. & CIB. \\
 \end{tabular}
 
