@@ -77,7 +77,9 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{MortonEJPC2025,
+\cite{LivoriRSAP2025,
+TamratJIGM2025,
+MortonEJPC2025,
 MelJACI2024,
 MortonPECA2024,
 DMLDE2024,
@@ -151,7 +153,7 @@ MortonDC2020}
 \section*{Other positions}
 \addcontentsline{toc}{section}{Other positions}
 \begin{tabular}{p{2cm}p{14cm}}
-2024 & Lipoprotein(a) International Taskforce (ITF) Initiative. Health Economic Consultant. \\
+2024-2025 & Lipoprotein(a) International Taskforce (ITF) Initiative. Health Economic Consultant. \\
 2024- & Baker Heart and Diabetes Institute. Honorary appointment.  \\
 2023- & International Diabetes Federation, Diabetes Atlas Economic Impact of Diabetes Special Interest Group. Member. \\
 2022- & GLOBODIAB study. Principal analyst.  \\
