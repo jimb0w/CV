@@ -334,8 +334,8 @@ I have reviewed manuscripts for the following journals:
 
 I have reviewed grants for the following schemes:
 \begin{itemize}
-\item Heart Foundation Postdoctoral Fellowship.
-\item Gold Coast Health Collaborative Research Grant Scheme.
+\item Heart Foundation Postdoctoral Fellowship. 2025.
+\item Gold Coast Health Collaborative Research Grant Scheme. 2024.
 \end{itemize}
 
 \end{document}
