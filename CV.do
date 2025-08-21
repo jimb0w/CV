@@ -232,6 +232,10 @@ Oxford University Press.
 \section*{Conference presentations}
 \addcontentsline{toc}{section}{Conference presentations}
 \begin{enumerate}
+\item Morton JI, Williams ED, Shaw JE, Magliano DJ. 
+Quantifying the impact of inequality on traditional and emerging diabetes complications: 
+A registry study of cause-specific admissions in Australia.
+Australiasian Diabetes Congress, August 2025.
 \item Morton JI, Liew D, Watts GF, Zoungas S, Nicholls SJ, Reid CM, Ademi Z.
 Immediate vs. 5-year risk-guided Initiation of treatment for Primary Prevention of 
 Cardiovascular Disease in 40-year-old Australians.
