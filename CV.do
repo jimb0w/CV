@@ -52,8 +52,7 @@ texdoc stlog close
 \begin{titlepage}
     \begin{center}
         \Huge
-        \textbf{CURRICULUM VITAE \\
-JEDIDIAH INDIGO MORTON}
+        \textbf{Jedidiah I Morton: CV}
 \rule{16cm}{2mm} \\
 \Large
 \thedate \\
