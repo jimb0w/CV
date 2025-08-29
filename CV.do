@@ -52,7 +52,7 @@ texdoc stlog close
 \begin{titlepage}
     \begin{center}
         \Huge
-        \textbf{Jedidiah I Morton \\ CV}
+        \textbf{CV \\ Jedidiah I Morton}
 \rule{16cm}{2mm} \\
 \Large
 \thedate \\
