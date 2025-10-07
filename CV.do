@@ -9,6 +9,7 @@ cd /home/jimb0w/Documents/Admin/CV
 texdoc stlog, nolog nodo
 cd /home/jimb0w/Documents/Admin/CV
 texdoc do CV.do
+exit
 texdoc stlog close
 
 *copy "http://www.stata-journal.com/production/sjlatex/stata.sty" stata.sty
@@ -77,7 +78,8 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{MortonAth2025,
+\cite{ZomerDTT2025,
+MortonAth2025,
 WangDOM2025,
 CostaEJCP2025,
 RoddaPECA2025,
