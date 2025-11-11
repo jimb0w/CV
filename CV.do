@@ -2,12 +2,10 @@
 texdoc init CV, replace gropts(optargs(width=0.8\textwidth))
 set linesize 100
 
-! rm -r "/home/jimb0w/Documents/Admin/CV/Library"
-cd /home/jimb0w/Documents/Admin/CV
-! git clone https://github.com/jimb0w/Library.git
-
 texdoc stlog, nolog nodo
 cd /home/jimb0w/Documents/Admin/CV
+! rm -r "/home/jimb0w/Documents/Admin/CV/Library"
+! git clone https://github.com/jimb0w/Library.git
 texdoc do CV.do
 exit
 texdoc stlog close
@@ -78,7 +76,8 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{ZomerDTT2025,
+\cite{GongLDE2025,
+ZomerDTT2025,
 MortonAth2025,
 WangDOM2025,
 CostaEJCP2025,
