@@ -73,8 +73,6 @@ Monash University, Melbourne, Australia. \\
 
 \tableofcontents
 
-
-
 \color{white}
 \cite{GongLDE2025,
 ZomerDTT2025,
@@ -212,6 +210,14 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \addcontentsline{toc}{section}{Publications}
 \bibliography{Library/Library.bib}
 \clearpage
+
+\clearpage
+\section*{Publications 2}
+\cite{MortonAth2025}
+\addcontentsline{toc}{section}{Publications}
+\bibliography{Library/Library.bib}
+\clearpage
+
 
 \section*{Textbook chapters}
 \addcontentsline{toc}{section}{Textbook chapters}
