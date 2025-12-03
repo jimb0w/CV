@@ -252,7 +252,6 @@ TanCPT2024,
 LordPPT2023,
 TomicLDE2022}
 
-\noindent \textbf{All publications:} \\
 \bibliography{Library/Library.bib}
 \clearpage
 
