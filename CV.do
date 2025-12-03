@@ -34,6 +34,7 @@ texdoc stlog close
 
 \newcommand{\specialcelr}[2][c]{%
   \begin{tabular}[#1]{@{}r@{}}#2\end{tabular}}
+\hypersetup{pdfborder = {0 0 0}}
 
 \newcommand{\thedate}{\today}
 
@@ -179,7 +180,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 
 \section*{Competitive grant funding}
-\addcontentsline{toc}{section}{Competitive grant funding}
+\addcontentsline{toc}{section}{Competitiv\hypersetup{pdfborder = {0 0 0}}
+e grant funding}
 \begin{tabular}{p{2cm}p{11.5cm}p{1.5cm}p{1cm}}
 2025 & Health Services Research Grant Program, HCF Research Foundation. & \$274,605. & CIA \\
 2024 & Postdoctoral Fellowship, The Heart Foundation. & \$151,200. & CIA. \\
