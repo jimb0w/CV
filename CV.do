@@ -244,13 +244,15 @@ LivoriIJC2024,
 LivoriEJPC2023,
 DoodyAGG2023} \\
 
-\noindent \textbf{Publications in which I was the lead or supervising analyst or statistician:}
+\noindent \textbf{Lead or supervising analyst or statistician publications:}
 \cite{ZomerDTT2025,
 DMLDE2024,
 DMMJA2024,
 TanCPT2024,
 LordPPT2023,
 TomicLDE2022}
+
+\noindent \textbf{All publications:} \\
 
 \bibliography{Library/Library.bib}
 \clearpage
