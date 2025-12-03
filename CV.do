@@ -208,6 +208,49 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \clearpage
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
+\noindent \textbf{First author publications:}
+\cite{GongLDE2025,
+MortonAth2025,
+MortonEJPC2025,
+MortonIJMI2025,
+MortonPECA2024,
+MortonVIH2024,
+MortonDRCP2024,
+MortonPECA2023,
+MortonAJKD2023,
+MortonVIH2023,
+MortonDLOGIA2023,
+MortonEJPC2023,
+QuigleyDRCP2022,
+MortonDRCP2022,
+MortonDM2022b,
+MortonJECH2022,
+MortonDC2022,
+MortonJONS2022,
+MortonDM2022a,
+HardingNDT2022,
+MortonDC2021,
+MortonDLOGIA2021,
+MortonDC2020} \\
+
+\noindent \textbf{Senior author publications:}
+\cite{DoodyAGG2023,
+LivoriIJC2024,
+LivoriEJPC2023,
+DoodyAGG2024,
+AbebeNeu2024,
+LivoriHLC2024,
+LivoriRSAP2025,
+TamratJIGM2025} \\
+
+\noindent \textbf{Publications in which I was the lead or supervising analyst or statistician:}
+\cite{TomicLDE2022,
+LordPPT2023,
+TanCPT2024,
+DMMJA2024,
+DMLDE2024,
+ZomerDTT2025}
+
 \bibliography{Library/Library.bib}
 \clearpage
 
