@@ -234,22 +234,22 @@ MortonDLOGIA2021,
 MortonDC2020} \\
 
 \noindent \textbf{Senior author publications:}
-\cite{DoodyAGG2023,
-LivoriIJC2024,
-LivoriEJPC2023,
-DoodyAGG2024,
-AbebeNeu2024,
-LivoriHLC2024,
+\cite{TamratJIGM2025,
 LivoriRSAP2025,
-TamratJIGM2025} \\
+LivoriHLC2024,
+AbebeNeu2024,
+DoodyAGG2024,
+LivoriEJPC2023,
+LivoriIJC2024,
+DoodyAGG2023} \\
 
 \noindent \textbf{Publications in which I was the lead or supervising analyst or statistician:}
-\cite{TomicLDE2022,
-LordPPT2023,
+\cite{ZomerDTT2025,
+DMLDE2024,
 TanCPT2024,
 DMMJA2024,
-DMLDE2024,
-ZomerDTT2025}
+LordPPT2023,
+TomicLDE2022}
 
 \bibliography{Library/Library.bib}
 \clearpage
