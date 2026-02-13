@@ -217,7 +217,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
 \noindent \textbf{First author publications:}
-\cite{GongLDE2025,
+\cite{MortonDRCP2026,
+GongLDE2025,
 MortonAth2025,
 MortonEJPC2025,
 MortonIJMI2025,
