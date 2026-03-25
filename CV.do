@@ -78,7 +78,9 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{MortonDRCP2026,
+\cite{MagLDE2026,
+WongJCF2026,
+MortonDRCP2026,
 WangDOM2026,
 BraakeEJPH2025,
 GongLDE2025,
@@ -217,7 +219,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
 \noindent \textbf{First author publications:}
-\cite{MortonDRCP2026,
+\cite{MagLDE2026,
+MortonDRCP2026,
 GongLDE2025,
 MortonAth2025,
 MortonEJPC2025,
