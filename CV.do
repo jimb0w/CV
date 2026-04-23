@@ -78,7 +78,8 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{MagLDE2026,
+\cite{LloydVIH2026,
+MagLDE2026,
 WongJCF2026,
 MortonDRCP2026,
 WangDOM2026,
@@ -213,7 +214,6 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 2017 & Howitt Natural History Scholarship, University of Melbourne. \\
 2016-2017 & Dean's Honours List, University of Melbourne. \\
 \end{tabular}
-
 
 \clearpage
 \section*{Publications}
