@@ -78,7 +78,8 @@ Monash University, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{MehtaDL2026,
+\cite{LivoriAJCD2026,
+MehtaDL2026,
 LloydVIH2026,
 MagLDE2026,
 WongJCF2026,
@@ -248,7 +249,8 @@ MortonDLOGIA2021,
 MortonDC2020} \\
 
 \noindent \textbf{Senior author publications:}
-\cite{LivoriRSAP2025,
+\cite{LivoriAJCD2026,
+LivoriRSAP2025,
 TamratJIGM2025,
 LivoriHLC2024,
 AbebeNeu2024,
