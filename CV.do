@@ -401,7 +401,7 @@ I have reviewed manuscripts for the following journals:
 \item Current Medical Research  \& Opinion 
 \item Health Economics Review 
 \item Australasian Journal on Ageing
-\item Journal of Pharmacy Practice and Research 
+\item Journal of Pharmacy Practice and Research \\
 \end{itemize}
 
 I have reviewed grants for the following schemes:
