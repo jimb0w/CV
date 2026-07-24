@@ -67,7 +67,6 @@ Email: \color{blue}
 Phone: \color{blue} 0403 487 378 \\
 \color{black}
  \\
-Research Fellow \\
 Monash University, Melbourne, Australia. \\
 Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 \end{titlepage}
