@@ -193,7 +193,7 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 
 \section*{Competitive grant funding}
 \addcontentsline{toc}{section}{Competitive grant funding}
-\begin{tabular}{p{2cm}p{11.5cm}p{1.5cm}p{1cm}}
+\begin{tabular}{p{2cm}p{11cm}p{2cm}p{1cm}}
 2026 & Medical Research Future Fund Cardiovascular Health Grant, National Health and Medical Research Council of Australia. & \$2,999,171.00 & CIG. \\
 2025 & Health Services Research Grant Program, HCF Research Foundation. & \$274,605. & CIA. \\
 2025 & Collaboration and Exchange Grant, National Heart Foundation of Australia. & \$5,000. & CIA. \\
