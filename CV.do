@@ -78,7 +78,10 @@ Baker Heart and Diabetes Institute, Melbourne, Australia. \\
 
 
 \color{white}
-\cite{LivoriBJCP2026,
+\cite{MortonAth2026,
+DakicECM2026,
+LivoriMJA2026,
+LivoriBJCP2026,
 LivoriAJCD2026,
 MehtaDL2026,
 LloydVIH2026,
@@ -223,7 +226,8 @@ Safer Care Victoria Cardiovascular Learning Health Network Data Group. Member. \
 \section*{Publications}
 \addcontentsline{toc}{section}{Publications}
 \noindent \textbf{First author publications:}
-\cite{MehtaDL2026,
+\cite{MortonAth2026,
+MehtaDL2026,
 MagLDE2026,
 MortonDRCP2026,
 GongLDE2025,
